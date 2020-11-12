@@ -942,7 +942,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":5,
                      "name":"",
                      "objects":[
                             {
@@ -968,7 +967,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -994,7 +992,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -1020,7 +1017,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
@@ -1044,25 +1040,61 @@
          "tilewidth":32
         }, 
         {
+         "columns":8,
          "firstgid":561,
-         "source":"chemin.tsx"
+         "image":"chemin.png",
+         "imageheight":192,
+         "imagewidth":256,
+         "margin":0,
+         "name":"chemin",
+         "spacing":0,
+         "tilecount":48,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":16,
          "firstgid":609,
-         "source":"morgue.tsx"
+         "image":"morgue.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"morgue",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":33,
          "firstgid":865,
-         "source":"carpet.tsx"
+         "image":"carpet.png",
+         "imageheight":576,
+         "imagewidth":1056,
+         "margin":0,
+         "name":"carpet",
+         "spacing":0,
+         "tilecount":594,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":16,
          "firstgid":1459,
-         "source":"house.tsx"
+         "image":"house.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"house",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "columns":16,
          "firstgid":1715,
-         "image":"tilesets_deviant_milkian_1.png",
+         "image":"tilesets_fsm_rm2k3_para_vx_ace__set_escritorio_by_milkian_darwtlj.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
