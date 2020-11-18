@@ -2520,6 +2520,11 @@
                          "name":"collides",
                          "type":"bool",
                          "value":true
+                        }, 
+                        {
+                         "name":"message",
+                         "type":"string",
+                         "value":"Bienvenu !"
                         }]
                 }, 
                 {
@@ -2529,6 +2534,11 @@
                          "name":"collides",
                          "type":"bool",
                          "value":true
+                        }, 
+                        {
+                         "name":"message",
+                         "type":"string",
+                         "value":"Bienvenu !"
                         }]
                 }, 
                 {
@@ -2662,6 +2672,11 @@
                          "name":"collides",
                          "type":"bool",
                          "value":true
+                        }, 
+                        {
+                         "name":"message",
+                         "type":"string",
+                         "value":"Bienvenu !"
                         }]
                 }, 
                 {
@@ -2671,6 +2686,11 @@
                          "name":"collides",
                          "type":"bool",
                          "value":true
+                        }, 
+                        {
+                         "name":"message",
+                         "type":"string",
+                         "value":"Bienvenu !"
                         }]
                 }, 
                 {
