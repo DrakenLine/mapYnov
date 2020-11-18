@@ -111,6 +111,12 @@
          "id":31,
          "name":"carpet",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"tcm-patio"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
