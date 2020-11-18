@@ -3579,8 +3579,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":4,
          "firstgid":1091,
-         "source":"labo1.tsx"
+         "image":"labo1.png",
+         "imageheight":128,
+         "imagewidth":128,
+         "margin":0,
+         "name":"labo1",
+         "spacing":0,
+         "tilecount":16,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
