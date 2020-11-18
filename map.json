@@ -25,7 +25,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/Floor1\/floor1.json"
+                 "value":""
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -73,7 +73,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"table1"
+                 "value":"tableUn"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -91,7 +91,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"table2"
+                 "value":"tableDeux"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -109,7 +109,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"table3"
+                 "value":"tableTrois"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -127,7 +127,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"salon1"
+                 "value":"salonOne"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -145,7 +145,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"salon2"
+                 "value":"salonDeux"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -163,7 +163,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"salon3"
+                 "value":"salonTrois"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -181,7 +181,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"salon4"
+                 "value":"salonQuatre"
                 }],
          "type":"tilelayer",
          "visible":true,
